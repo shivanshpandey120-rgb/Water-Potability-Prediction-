@@ -1,0 +1,8 @@
+"forwardPorts": [8503],
+"portsAttributes": {
+  "8503": {
+    "label": "My Web App",
+    "onAutoForward": "openBrowser",
+    "visibility": "public"
+  }
+}
